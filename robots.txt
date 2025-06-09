@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gazoukeiryou.netlify.app/sitemap.xml
